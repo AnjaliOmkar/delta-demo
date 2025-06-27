@@ -1,2 +1,3 @@
 # delta-demo
-Demo for git &amp; github class
+Demo for git &amp; github class.
+This is sample repository.
